@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	cout << "hey i IG hassan"<<endl;
+	cout << "IG hassan"<<endl;
 	
 	return 0;
 
